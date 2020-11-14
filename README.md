@@ -1,5 +1,5 @@
 # The Orbital Object Ontology (OOO)
-OOO is an ontology representing objects in orbit about Earth. It represents obital objects and their interactions in the orbital environment. 
+OOO is an ontology representing objects in orbit about Earth. It represents obital objects and their interactions in the orbital environment.  If you find value in my work, please [support/donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/).
 
 ## Publications
 * _“An Ontological Architecture for Orbital Debris Data”_, Robert J. Rovetto (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 
