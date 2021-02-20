@@ -20,6 +20,10 @@ CONTEXT: This has been a pursuit since 2011, when I conceived the concept (docum
 ## Contact
 Creator: Robert J. Rovetto, rrovetto@terpalum.umd.edu, ontologos@yahoo.com
 
-## Rights
-© 2011-2020, Robert John Rovetto.
-All rights reserved.
+## Warranty
+No warranty. Presented "AS IS". Author and copyright holder is not liable.
+All content, work and products are subject to revision. No claims to completeness. 
+
+## Copyright
+© 2011-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
